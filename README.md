@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roamn2
-- 👀 I’m interested in programming and websites (Batch, Bash, Python, HTML & CSS, C)
+- 👀 I’m interested in programming and webdevelopment (Batch, Bash, Python, HTML & CSS, C)
 - 🌱 I’m currently learning The C Programmig Language
 - 📫 How to reach me (N/A)
 
